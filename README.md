@@ -104,7 +104,7 @@ It helps in understanding system boundaries, identifying user roles, and visuali
 - Generate Reports
 
 **Diagram:**
-![Booking Management System Use Case Diagram](https://github.com/RebiLee001/requirement-analysis/blob/main/images/alx-booking-uc.png)
+![Booking Management System Use Case Diagram](https://github.com/RebiLee001/requirement-analysis/blob/main/alx-booking-uc.png)
 
 ---
 
